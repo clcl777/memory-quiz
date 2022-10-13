@@ -1,0 +1,4 @@
+#Mon Feb 28 11:21:40 JST 2022
+base.0=C\:\\Users\\tisk0\\AndroidStudioProjects\\flutter_memory_quiz\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
