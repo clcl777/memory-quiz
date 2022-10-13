@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+暗記力を鍛えるフラッシュクイズ
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
